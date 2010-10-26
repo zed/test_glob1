@@ -12,4 +12,4 @@ See ``tox.ini`` for the list of tested Python environment.
 Files are licensed under the MIT License. See the file ``MIT-LICENSE.txt``
 for details.
 
-The latest version is at XXX
+The latest version is at http://github.com/zed/test_glob1
