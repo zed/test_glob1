@@ -25,7 +25,7 @@ URL              = "http://stackoverflow.com/questions/3964681/find-all-files-in
 DOWNLOAD_URL     = None #XXX
 LICENSE          = 'MIT'
 CLASSIFIERS      = filter(len, CLASSIFIERS.split('\n'))
-AUTHOR           = "zed"
+AUTHOR           = "arn.zart"
 AUTHOR_EMAIL     = "arn.zart@gmail.com"
 PLATFORMS        = ["Windows", "Linux", "Solaris", "Mac OS-X", "Unix"]
 
