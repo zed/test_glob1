@@ -1,5 +1,4 @@
-include ez_setup.py
 include MIT-LICENSE.txt
-include README.rst
+include README.txt
 include test_glob1.py
 
